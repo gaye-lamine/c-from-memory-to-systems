@@ -65,3 +65,15 @@ Focus :
 - The C Programming Language
 - Programming System in C under Linux — Christophe Blaess
 - The Linux Programming Interface
+
+# Current Focus
+
+- [ ] pointers
+- [ ] stack vs heap
+- [ ] malloc/free
+- [ ] linked list
+- [ ] dynamic buffer
+- [ ] hashmap
+- [ ] parser
+- [ ] mini grep
+- [ ] mini shell
